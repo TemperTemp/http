@@ -12,7 +12,7 @@ inherit_from:
 
 AllCops:
   DefaultFormatter: fuubar
-  DisplayCopNames: true
-  DisplayStyleGuide: true
+  DisplayCopNames: false
+  DisplayStyleGuide: false
   NewCops: enable
   TargetRubyVersion: 3.0
